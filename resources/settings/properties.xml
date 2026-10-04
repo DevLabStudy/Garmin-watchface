@@ -1,0 +1,13 @@
+﻿<resources>
+    <properties>
+        <property id="Background" type="number">0</property>
+        <property id="TimeFormat" type="number">0</property>
+        <property id="Theme" type="number">0</property>
+        <property id="DateFormat" type="number">0</property>
+        <property id="SecondsDot" type="number">1</property>
+        <property id="SlotA" type="number">0</property>
+        <property id="SlotB" type="number">1</property>
+        <property id="SlotC" type="number">2</property>
+        <property id="SlotD" type="number">3</property>
+    </properties>
+</resources>

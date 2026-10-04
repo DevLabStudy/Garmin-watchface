@@ -1,0 +1,35 @@
+﻿<resources>
+    <string id="SetBackground">Background</string>
+    <string id="BgBlack">Black</string>
+    <string id="BgWhite">White</string>
+    <string id="SetTimeFormat">Time format</string>
+    <string id="TfAuto">Auto (watch setting)</string>
+    <string id="Tf12">12-hour</string>
+    <string id="Tf24">24-hour</string>
+    <string id="TfMil">Military (HHMM)</string>
+    <string id="SetTheme">Color theme</string>
+    <string id="ThClassic">Classic</string>
+    <string id="ThIce">Ice</string>
+    <string id="ThFire">Fire</string>
+    <string id="ThGold">Gold</string>
+    <string id="ThMono">Mono</string>
+    <string id="SetDate">Date format</string>
+    <string id="Df0">SUN 04 OCT</string>
+    <string id="Df1">SUN 04.10</string>
+    <string id="Df2">SUN 10/04</string>
+    <string id="Df3">04OCT26</string>
+    <string id="SetSeconds">Seconds dot (round screens)</string>
+    <string id="SecShown">Shown</string>
+    <string id="SecHidden">Hidden</string>
+    <string id="SetSlotA">Field 1 (below time / bottom left)</string>
+    <string id="SetSlotB">Field 2 (second line / bottom right)</string>
+    <string id="SetSlotC">Extra row left (square screens and Instinct)</string>
+    <string id="SetSlotD">Extra row right (square screens and Instinct)</string>
+    <string id="SlSteps">Steps</string>
+    <string id="SlHr">Heart rate</string>
+    <string id="SlCal">Calories</string>
+    <string id="SlDist">Distance</string>
+    <string id="SlFloors">Floors climbed</string>
+    <string id="SlBatDays">Battery days</string>
+    <string id="SlOff">Off</string>
+</resources>
